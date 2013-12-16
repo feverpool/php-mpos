@@ -151,3 +151,9 @@ Small Time Miners are running various stratum only pools for different coins.
 | http://sxc.coinz.pw | Sexcoin | 10-20Mhs | 15-25 workers | Prop |
 | http://tgc.coinz.pw | Tigercoin | 2-4Ghs | 2-4 workers | Prop |
 | http://zet.coinz.pw | Zetacoin | 5-10Ghs | 2-3 workers | Prop |
+
+### feverpool
+
+| Pool URL | Coin | Avg. Hashrate | Avg. Active Workers | Notes |
+| -------- | ---- | ------------: | ------------------: | ----- |
+| https://sxc.feverpool.com | SXC | 3-6 MHash | 12 | PPLMS |
