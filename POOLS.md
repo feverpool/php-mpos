@@ -132,3 +132,10 @@ Small Time Miners are running various stratum only pools for different coins.
 | http://ezc.pnwminer.com | EZCoin | 5-10Mhs | 2 workers | PPLNS |
 | http://nbl.pnwminer.com | Nibble | 0 Mhs | 0 workers | PPLNS |
 | http://mst.pnwminer.com | MasterCoin | 1-5 Mhs | 2 workers | PPLNS |
+
+### Neozonz
+
+
+| Pool URL | Coin | Avg. Hashrate | Avg. Active Workers | Notes |
+| -------- | ---- | ------------: | ------------------: | ----- |
+| http://sxc.feverpool.com | SXC | 5-10 Mhs | 12 workers | PPLNS |
